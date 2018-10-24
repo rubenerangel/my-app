@@ -92,9 +92,9 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
-                <div>
+                <!--div>
                     <a href="http://indigosnetwork.com">Indigos Network C.A.</a>
-                </div> 
+                </div--> 
             </div>
         </div>
     </body>
