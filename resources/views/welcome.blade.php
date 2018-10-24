@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel e Indigos enseñando Git
                 </div>
 
                 <div class="links">
