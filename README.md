@@ -1,9 +1,8 @@
-# my-app
+# Instalation Laravel to practice Git
 
-#This project has been created with the purpose of doing the necessary practices to learn Git
+_This is a instalation of Framework Laravel to practice concepts and commands of Git_
 
-<h2>Placeholder Flat Format</h2>
-
+## Placeholder Flat Format ⚙️
 
 -%ad Date 
 -%an Name Autor
